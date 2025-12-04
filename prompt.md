@@ -1,0 +1,1 @@
+uses agents.md for instructions use BDO Canada_Resume for the resume
